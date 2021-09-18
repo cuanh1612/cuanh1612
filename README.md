@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm develop web Nguyen Quang Huy</h1>
-- 🔭 I’m currently working on [ATN shop manager](https://shopatnmanage.herokuapp.com/)
-
-- 📫 How to reach me **huy**
+- 📫 How to reach me **huynguyencc1000@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
