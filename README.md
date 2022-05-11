@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm develop web Nguyen Quang Huy</h1>
+<h1 align="center">Hi 👋, I'm fullstack develop Nguyen Quang Huy</h1>
 - 📫 How to reach me **huynqdev1612@gmail.com**
 
 
