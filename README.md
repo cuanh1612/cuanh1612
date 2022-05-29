@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm fullstack develop Nguyen Quang Huy</h1>
+
+I am a full-stack developer with knowledge in developing small and medium websites and software. Looking forward to using my skills and knowledge in large and real projects. I strive to develop myself every day and learn new knowledge. If you need help from me don't hesitate to contact me.
+
 <h3 align="left">How to reach me:</h3>
 📫 **huynqdev1612@gmail.com**
 
