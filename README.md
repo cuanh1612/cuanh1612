@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fullstack develop Nguyen Quang Huy</h1>
-<h3 align="left">How to reach me:</h3>
+<h3 align="left" style="color: red">How to reach me:</h3>
 📫 **huynqdev1612@gmail.com**
 </a> 
 
@@ -62,7 +62,7 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
-  <a style="color: red" href="https://www.postgresql.org/" target="_blank">
+  <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/> 
   </a>                                                                                                      
 </p>
