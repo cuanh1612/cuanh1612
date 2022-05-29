@@ -7,5 +7,11 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="css3" width="40" height="40"/> 
   </a> 
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://github.com/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="css3" width="40" height="40"/> 
+  </a>                                                                                                      
 </p>
 
