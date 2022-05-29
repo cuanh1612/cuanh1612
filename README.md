@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fullstack develop Nguyen Quang Huy</h1>
-<h3 align="left" color="red">How to reach me:</h3>
+<h3 align="left">How to reach me:</h3>
 📫 **huynqdev1612@gmail.com**
 </a> 
 
