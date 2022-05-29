@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm fullstack develop Nguyen Quang Huy</h1>
 <h3 align="left">How to reach me:</h3>
 📫 **huynqdev1612@gmail.com**
-
+📫 <a href="https://www.facebook.com/profile.php?id=100014461876748" target="_blank"> 
+    Facebook
+</a> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
