@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm fullstack develop Nguyen Quang Huy</h1>
-📫 How to reach me **huynqdev1612@gmail.com**
+<h3 align="left">How to reach me:</h3>
+📫 **huynqdev1612@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
